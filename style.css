@@ -1,0 +1,52 @@
+.h1Class{
+	font-family: garamond;
+	color: maroon;
+	font-size : "30px";
+}
+
+.bodyClass {
+	background-color: pink;
+}
+
+.pClass {
+	color: teal;
+}
+
+.mClass {
+	color: green;
+}
+
+.hClass {
+	color: red;
+}
+
+.topnav {
+  background-color: pink;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: red;
+  color: purple;
+}
+
+.topnav a.active {
+  background-color: darkred;
+  color: white;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 400px;
+  height: 200px;
+  border-radius: 50%;
+}
